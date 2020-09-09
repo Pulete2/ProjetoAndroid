@@ -89,11 +89,11 @@
         />
 
     <EditText
-        android:id="@+id/ed_pets"
         android:layout_width="80dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="225dp"
         android:layout_marginTop="40dp"
+        android:id="@+id/ed_pets"
         android:inputType="number"
         android:textSize="20sp"
         app:layout_constraintLeft_toLeftOf="@id/campo_3"
